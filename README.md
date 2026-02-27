@@ -1,6 +1,8 @@
 # Open Weather Indicator 
 
 A simple weather app built with HTML, CSS and JavaScript using the WeatherAPI.
+### By: 
+Lenny Gitonga
 
 ## Features
 - Default weather for Nairobi on load
